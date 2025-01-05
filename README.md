@@ -37,10 +37,10 @@ The app is an platform with a Home screen, About Us section, and Contact Us form
 
 ### Steps
 
-1. **Create the folder named "myapp".**
+1. **Create the folder named "navigationapp".**
 
 
-2. **Changes the directory to myapp.**
+2. **Changes the directory to navigationapp.**
     ```bash
     cd myapp
     ```
